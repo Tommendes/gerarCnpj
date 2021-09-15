@@ -1,0 +1,1 @@
+java -jar "E:\GDrive\NetBeansProjects\GerarCnpj\dist\GerarCnpj.jar"
